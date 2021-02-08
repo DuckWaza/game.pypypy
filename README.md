@@ -1,1 +1,1 @@
-# game.pypypy
+# 2 player game
